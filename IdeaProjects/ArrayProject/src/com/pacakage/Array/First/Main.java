@@ -30,7 +30,7 @@ public class Main {
         employeeId[0] = 2001;
         employeeId[1] = 2002;
         employeeId[2] = 2003;
-        //long[] id = new long[]{ 1,2,3};
+        //int[] id = new int[]{ 1,2,3};
         */
 
 
